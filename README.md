@@ -52,16 +52,28 @@ ________________________________________________________________________________
 
 
 <p>
-login into John's Account.
+Login into John's Account.
 Observe ticket. Since the Ticket requires Sysadmin Role. John, will need to assign the ticket to Sysadmin (Jane).
 John made changes to the ticket.
 Select Tickets.
 Change PRIORITY to Normal to HIGH.
 Change Service Agreement to Sev-A.
 Assign to Sysadmin Jane Doe.
-
 </p>
 <br />
+
+
+
+<h2>Lifecycle Stages Item 3</h2>
+
+![image](https://github.com/user-attachments/assets/db0a761a-26a4-47cc-a4f6-e19e0a3a1cd9)
+
+
+<p>
+Jane (Sysadmin) was able to find the root cause. The root cause was a recent update from the Vendor. Jane updated the Server. 
+</p>
+<br />
+
 
 
 <p>
