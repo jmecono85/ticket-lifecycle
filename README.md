@@ -22,6 +22,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  Item 2 - Assign Ticket to Help Desk (John)
 -  Item 3 - Resolve and Close Ticket
 
+<h2>Lifecycle Stages Item 1</h2>
+
+![image](https://github.com/user-attachments/assets/6c5389c6-603a-46d0-8f6f-93b15f3a0528)
+
+![image](https://github.com/user-attachments/assets/ac09261e-3780-4641-b07d-709ca566ec57)
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+
 
 
 
