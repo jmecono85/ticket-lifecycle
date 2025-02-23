@@ -29,7 +29,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/ac09261e-3780-4641-b07d-709ca566ec57)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Click "Open a New Ticket"
+-Enter User Information
+-"Help Topic" Select "Report a Problem"
+-State your issue under "Issue Summary"
+-Click "Create" 
 </p>
 
 
