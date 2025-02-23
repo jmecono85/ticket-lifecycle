@@ -18,12 +18,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Log in As User (Joy) and create a Ticket "Entire mobile/online banking system is down"
-- Assign Ticket to Help Desk (John)
-- Resolve and Close Ticket
+-  Item 1 - Log in As User (Joy) and create a Ticket "Entire mobile/online banking system is down"
+-  Item 2 - Assign Ticket to Help Desk (John)
+-  Item 3 - Resolve and Close Ticket
 
 
-<h2>Lifecycle Stages</h2>
+<h2>Lifecycle Stages Item 1</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
