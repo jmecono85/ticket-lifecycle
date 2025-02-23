@@ -23,6 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -  Item 3 - Resolve and Close Ticket
 
 
+
+
 <h2>Lifecycle Stages Item 1</h2>
 
 <p>
