@@ -52,6 +52,19 @@ ________________________________________________________________________________
 
 
 <p>
+login into John's Account.
+Observe ticket. Since the Ticket requires Sysadmin Role. John, will need to assign the ticket to Sysadmin (Jane).
+John made changes to the ticket.
+Select Tickets.
+Change PRIORITY to Normal to HIGH.
+Change Service Agreement to Sev-A.
+Assign to Sysadmin Jane Doe.
+
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
