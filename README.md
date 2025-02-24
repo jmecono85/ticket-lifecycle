@@ -70,7 +70,7 @@ Assign to Sysadmin Jane Doe.
 
 
 <p>
-Jane (Sysadmin) was able to find the root cause. The root cause was a recent update from the Vendor. Jane updated the Server. 
+Jane (Sysadmin) was able to find the root cause. The root cause was a recent update from the Vendor. 
 </p>
 <br />
 
