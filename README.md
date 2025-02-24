@@ -36,13 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/ac09261e-3780-4641-b07d-709ca566ec57)
 
-<p>
--Click "Open a New Ticket"
--Enter User Information
--"Help Topic" Select "Report a Problem"
--State your issue under "Issue Summary"
--Click "Create" 
-</p>
+
 
 ________________________________________________________________________________________________
 <h2>Lifecycle Stages Item 2</h2>
@@ -51,28 +45,12 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/93874715-5fe6-41ea-a58a-8eb43d1aecf5)
 
 
-<p>
-Login into John's Account.
-Observe ticket. Since the Ticket requires Sysadmin Role. John, will need to assign the ticket to Sysadmin (Jane).
-John made changes to the ticket.
-Select Tickets.
-Change PRIORITY to Normal to HIGH.
-Change Service Agreement to Sev-A.
-Assign to Sysadmin Jane Doe.
-</p>
-<br />
-
 
 
 <h2>Lifecycle Stages Item 3</h2>
 
 ![image](https://github.com/user-attachments/assets/db0a761a-26a4-47cc-a4f6-e19e0a3a1cd9)
 
-
-<p>
-Jane (Sysadmin) was able to find the root cause. The root cause was a recent update from the Vendor. 
-</p>
-<br />
 
 
 
